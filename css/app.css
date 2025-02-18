@@ -30,10 +30,10 @@ body {
   margin: 15px;
   box-shadow: 0 25px 25px rgba(0, 0, 255, 0.04);
   .card-qr {
-    border-radius: 16px;
     margin-bottom: 24px;
     img {
       width: 100%;
+      border-radius: 16px;
     }
   }
   h1 {
